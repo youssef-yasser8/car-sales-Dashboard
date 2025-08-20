@@ -74,15 +74,4 @@ Whether you're assessing yearly growth, exploring sales by color and transmissio
 
 ---
 
-## 📬 Contact
-
-For inquiries, suggestions, or contributions, feel free to reach out:
-
-- **GitHub**: https://github.com/MohamedSamy57
-- **Email**: mohamedsamyomar55@gmail.com
-
----
-
-**Crafted with ❤️ by Mohamed Samy**  
-*Using data to elevate Cars Sales decisions with Cars-Sales Dashboard*
 
